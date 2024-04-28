@@ -1,0 +1,21 @@
+8/10mm formers should be printed flat so that supports are only generated in the radii of the part.
+
+8/10mm spreaders should be printed vertical and require no supports.
+
+8/10mm clamp should be printed flat with supports only at the ends of the parts. 
+
+Mount interfaces the 1/2" pvc pipe used to connect the spreaders together to a 2" sch 40 pvc pipe. This may
+not be to your liking so you may need to come up with your own mast mount.
+
+Coax connector should be attached to the coax mount, and the cap installed on the coax. The coax is then soldered to 
+the connector and the mount cap placed on it. I used drops of super glue to hold the cap in place and then filled
+with silicone rubber
+
+All parts interface to 1/2" pvc pipe. These connections are intended to be tight fitting and some sanding of
+the hole may be needed.
+
+For antennas over 24" long, 3 formers are suggested. (typically vhf antennas)
+For antennas less than 24" long, 2 formers are suggested. (typically uhf antennas)
+
+Once antenna build is complete, seal coax connector, element connector, and element end points with liquid rubber. 
+
